@@ -1,0 +1,15 @@
+for admin:
+url: base_url/admin-login
+email: admin@email.com
+password: admin123
+
+
+user:
+url: base_url/login
+email: demo@email.com
+password: admin123
+
+
+wish
+akbor1@itebd.com
+12345678
